@@ -1,2 +1,2 @@
 # system_design
-System design for interviews
+System design Basics and Practice
